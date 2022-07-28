@@ -1,10 +1,10 @@
 ## Description of files and folders
 
-1)files in the main directory are the files required to make the figures in the main text and SI.
+1) files in the main directory are the files required to make the figures in the main text and SI.
 
 2) the community_simulator folder containts code from the Community simulator package [Marsland et al 2020 Plos One]. The folder with the package is provided because the package was modified for use in the simulations. Some of these modifications, such as using different ode solvers for simulation stability, may have been implemented in more recent versions of community simulator.
 
-3)the 'vestigial files' folder contains code for related analysis of ecological landscapes that is not presented in the paper.
+3) the 'vestigial files' folder contains code for related analysis of ecological landscapes that is not presented in the paper.
 
 ## Overview of simulation workflow
 
