@@ -1,4 +1,4 @@
-## description of folders and files
+## Description of files and folders
 
 1)files in the main directory are the files required to make the figures in the main text and SI.
 
@@ -6,7 +6,7 @@
 
 3)the 'vestigial files' folder contains code for related analysis of ecological landscapes that is not presented in the paper.
 
-## Overview of workflow
+## Overview of simulation workflow
 
 The script Submit_CR_SSjobs.py submits simulation jobs over the desired parameter range.
 There are 10 replicate simulations for each set of parameters. A replicate varies only by the realization of the consumption matrices of the species (chosen randomly from appropriate distribution.) 
