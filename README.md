@@ -1,3 +1,14 @@
+This repository contains code related to the publication: 
+Ashish B. George and Kirill S. Korolev. "Ecological landscapes guide the assembly of optimal microbial communities."  Biorxiv (2022)
+
+Assembling optimal microbial communities is key for various applications in biofuel production, agriculture, and human health. Finding the optimal community is challenging because the number of possible communities grows exponentially with the number of species, and so an exhaustive search cannot be performed even for a dozen species. Here we analyze heuristic search strategies for finding the optimal community using data from experiments and simulations of microbial consumer-resource models. In particular, we analyze the "landscapes" of community function and identify statistical metrics that control the efficacy of the search process. These metrics, called ruggedness metrics, can be inferred from preliminary, noisy data. We also study how various biological properties such as niche overlap, resource distributions, and cross-feeding affect search success. Overall, our results establish the conditions necessary for the success of the heuristic search and provide concrete design principles for building high-performing microbial consortia
+
+
+
+
+Part of  code generates and analyzes data of microbial communities 
+s
+
 ## Description of files and folders
 
 1) files in the main directory are the files required to make the figures in the main text and SI.
